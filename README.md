@@ -4,7 +4,7 @@ This repository contains firmware for the TinyHouseSmartSystem, an STM32-based s
 
 ## Hardware Requirements
 
-- STM32 microcontroller board
+- STM32F303K8 microcontroller board
 - SSD1306 OLED display
 - DHT11 temperature and humidity sensor
 - MQ135 air quality sensor
@@ -41,5 +41,5 @@ The firmware operates in the following states:
 
 ## Contributions
 
-Contributions to this project were made by the Melon Electronics members.
+Contributions to this project were made by Melon Electronics members.
 
